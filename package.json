@@ -1,0 +1,34 @@
+{
+  "name": "bellavista-backend",
+  "version": "1.0.0",
+  "description": "API for BellavistaFC page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juamanuel/bellavistafc-backend.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongoDB",
+    "Express",
+    "Soccer",
+    "API"
+  ],
+  "author": "Juan Manuel López",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "es6-requireindex": "^0.3.10",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.8",
+    "uuid": "^3.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/juamanuel/bellavistafc-backend/issues"
+  },
+  "homepage": "https://github.com/juamanuel/bellavistafc-backend#readme"
+}
